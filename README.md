@@ -1,7 +1,3 @@
-# k-Means-and-EM-Clustering
+# Self-Guided, Small Projects
 
-(Work in Progress)
-
-This respository is a small example of how the k-means clustering and EM algorithm work in Octave. Synthetic data from a basic Gaussian Mixture model is generated, and then these two algorithms learn to produce a distribution from the sample data.
-
-These algorithms are adapted from Chapter 9 of Pattern Recognition and Machine Learning, by Christopher Bishop.
+This repository is acting as a central location for miniature projects. They are a means to practice understanding of a self-guided reading, or to tie together readings from different courses. Each directory contains a README.md file explaining the project matter and what sources they are coming from.
