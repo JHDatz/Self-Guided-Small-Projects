@@ -1,7 +1,5 @@
 # CMU-Multinomial-Text-Classification
 
-(Work in progress!)
-
 This repository contains an example assignment from Carnegie-Mellon's CMU 10-701, Spring 2011. 
 
 http://www.cs.cmu.edu/~tom/10701_sp11/
